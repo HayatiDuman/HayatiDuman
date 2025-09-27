@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HayatiDuman. I am from Türkiye.
 - 📚 I am a computer engineering student at Gazi University.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c#, c, html, css, javascript and python.
+- 🌱 I’m currently learning c, c#, java, html, css, javascript and react.
 - 📫 How to reach me ; hayatiduman71@gmail.com
 
 <!---
